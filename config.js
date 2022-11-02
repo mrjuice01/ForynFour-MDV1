@@ -3,30 +3,30 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['6285770190255'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['62895327934887']
+global.kontak = ['6285770190255']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.naown = 'HanzOfc'
+global.noown = '6285770190255'
+global.namebot = 'XiaomiBOT'
+global.nobot = '62857791505013'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/itskri99'
-global.github = 'https://github.com/krizynofc'
-global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/Kricom'
+global.instagram = 'https://instagram.com/rangga_botz'
+global.github = 'https://github.com/XiaomiBOT'
+global.gc = 'https://chat.whatsapp.com/CxhaZtrxdn4AfSUOHuCtcM'
+global.web = 'https://hanz.my.id' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = 'https://saweria.co/XiaomiBOT'
 
 // PAYMANT 
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
-global.shopay = '081360482998'
-global.ovo = '081360482998'
+global.dana = '085779150501'
+global.pulsa = '085770190255'
+global.gopay = '085779150501'
+global.shopay = '-'
+global.ovo = '085779150501'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
@@ -56,8 +56,8 @@ global.fpagedoc = '999'
 // WATERMARK  
 global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙆𝙧𝙞𝙯𝙮𝙣𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙃𝙖𝙣𝙯𝙊𝙛𝙘'
+global.wm3 = '⫹⫺ 𝙓𝙞𝙖𝙤𝙢𝙞 | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -81,7 +81,7 @@ global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃⫹⫺ Ilmanhdyt
 ┃⫹⫺ Elyas
 ┃⫹⫺ Hyzer
-┃⫹⫺ KrizynOfc
+┃⫹⫺ HanzOfc
 ┃⫹⫺ Zivsan
 ┃⫹⫺ Mursid
 ┃⫹⫺ Jarot
@@ -96,16 +96,16 @@ global.hka = '』––––––'
 
 
 // INFO BOT
-global.wait = '⏳ Tunggu Sedang Proses...'
+global.wait = '⏳ Tunggu Sedang Proses Tod🗿...'
 global.eror = '_*🤦 Server Bot tidak ditemukan*_'
 
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
-global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'FORYN FOUR'
-global.author = 'By krizynOfc'
+global.stiker_wait = '⏳ Stiker sedang Di buat Tod🗿'
+global.packname = 'XiaomiBOT'
+global.author = 'By HanzOfc'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
