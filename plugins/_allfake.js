@@ -46,7 +46,7 @@ handler.all = async function (m) {
 					body: wm,
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(media)).buffer(),
-					sourceUrl: `${pickRandom([`https://vt.tiktok.com/ZSRBqB9q1/`, `https://www.instagram.com/mhdfakri_`, `https://youtube.com/hokenbeusz`])}`,
+					sourceUrl: `${pickRandom([`https://vt.tiktok.com/ZSRBqB9q1/`, `https://www.instagram.com/rangga_botz`, `https://youtube.com/channel/UCkiB1g5qA7xtd7AlXd46vcw`])}`,
 				}
 			}
 		}
@@ -64,7 +64,7 @@ key: {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": fs.readFileSync('./media/krizyn.jpg') //Gambarnye
 					},
-					"title": tb, //Kasih namalu 
+					"title": HanzOfc, //Kasih namalu 
 					"description": "SELF BOT", 
 					"currencyCode": "USD",
 					"priceAmount1000": "2000",
@@ -86,7 +86,7 @@ global.ftroli = {
                             itemCount : 1,
                             status: 1,
                             surface : 1,
-                            message: 'KrizynOfc', //Kasih namalu
+                            message: 'HanzOfc', //Kasih namalu
                             orderTitle: tb,
                             thumbnail: fs.readFileSync('./media/krizyn.jpg'), //Gambarnye
                             sellerJid: '0@s.whatsapp.net'
@@ -136,7 +136,7 @@ global.fliveLoc2 = {
 	 { fromMe: false,
 	 participant: `0@s.whatsapp.net`, ...(m.chat ? 
 	 { remoteJid: "status@broadcast" } : {}) },
-	 message: { "contactMessage": { "title":"krizyn","h": `haloo`, 'jpegThumbnail': fs.readFileSync('./media/krizyn.jpg')}}
+	 message: { "contactMessage": { "title":"Hanz","h": `haloo`, 'jpegThumbnail': fs.readFileSync('./media/krizyn.jpg')}}
 	}
 	
  global.fcona = {
