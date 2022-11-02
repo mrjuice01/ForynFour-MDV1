@@ -23,9 +23,9 @@
 > Klik [ SAWERIA ](https://saweria.co/Kricom) 
 
 # BISA JUGA LEWAT VIA LAIN
-》 DANA  = 081360482998
-》 PULSA = 081360482998
-》 OVO   = 081360482998
+》 DANA  = 085779150501
+》 PULSA = 085770190255
+》 OVO   = 085779150501
 
 # Ambil Session Disini
 
