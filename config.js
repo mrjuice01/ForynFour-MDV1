@@ -54,7 +54,7 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
+global.wm = 'ᬊᬁ 𝐗𝐢𝐚𝐨𝐦𝐢𝐁𝐎𝐓'
 global.watermark = wm
 global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙃𝙖𝙣𝙯𝙊𝙛𝙘'
 global.wm3 = '⫹⫺ 𝙓𝙞𝙖𝙤𝙢𝙞 | BOT WHATSAPP MD'
