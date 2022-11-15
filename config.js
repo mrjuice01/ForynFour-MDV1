@@ -3,15 +3,15 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6285770190255'] 
+global.owner = ['923474187615'] 
 global.mods = [] 
-global.prems = [] 
-global.kontak = ['6285770190255']
+global.prems = ['923474187615'] 
+global.kontak = ['923474187615']
 
 //  INFO BOT 
-global.naown = 'HanzOfc'
-global.noown = '6285770190255'
-global.namebot = 'XiaomiBOT'
+global.naown = '💙⟵꯭꯭᪵〬𝐌𐍂꯭꯭.Ꮭϴ𝐕𝐄⎯꯭̽"❤'
+global.noown = '923474187615'
+global.namebot = 'YUUBOT'
 global.nobot = '62857791505013'
 
 //  URL SOSMED
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐗𝐢𝐚𝐨𝐦𝐢𝐁𝐎𝐓'
+global.wm = 'ᬊᬁ 𝙔𝙐𝙐𝘽𝙊𝙏'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙃𝙖𝙣𝙯𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝙓𝙞𝙖𝙤𝙢𝙞 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝘼𝙨𝙞𝙛𝙊𝙛𝙘'
+global.wm3 = '⫹⫺ 𝘼𝙎𝙄𝙁 | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -81,7 +81,7 @@ global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃⫹⫺ Ilmanhdyt
 ┃⫹⫺ Elyas
 ┃⫹⫺ Hyzer
-┃⫹⫺ HanzOfc
+┃⫹⫺ Asif
 ┃⫹⫺ Zivsan
 ┃⫹⫺ Mursid
 ┃⫹⫺ Jarot
